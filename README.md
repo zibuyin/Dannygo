@@ -8,7 +8,7 @@ By using this script, you agree to not use it for any harmful, malicious, or una
 
 The author is not responsible for any misuse of the script or its contents.
 ## Installation
-
+![image](linux-birthday-cake-joke 2.jpg)
 To install the required dependencies for this project, follow the steps below:
 
 1. **Clone the repository** 
