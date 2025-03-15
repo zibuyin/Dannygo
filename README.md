@@ -13,7 +13,7 @@ To install the required dependencies for this project, follow the steps below:
 
 1. **Clone the repository** 
    ```bash
-   git clone https://github.com/zibuyin/Dannygo
+   git clone https://github.com/zibuyin/Dannygo.git
    ```
 2. **Install Requirements**
    ```bash
